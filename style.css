@@ -1,3 +1,22 @@
+body {
+  background-color: black;
+  background-image: url(https://fsb.zobj.net/crop.php?r=xTpzgQO6X3pVdV2uX-UUaBMTZaaGnAYCpJSYWEF9y6UBr6AV3LxcsnWhKhmTtwKYQIXOI3DZPw-NSKaQr1v72Bm7m4jMVS9-8m3H8fgW02S77PPnk_uLduqmwYVdM6eKAKqKXNwsCAqd-GR_),
+    url(https://fsb.zobj.net/crop.php?r=HprwYXw6xJJmZoNQGB450VBRHBEbInvpZBuAYV9jNna7FMBm6M2hEJxiMM6jvb-gV__2EXIknKdRRUzQQ42MCRVFSaVkDAYfNk9qcpdMmiDpRVDBuE6Ubxkwa5ZVEOLBqG6doTvWby-LzM5k);
+  background-repeat: no-repeat;
+  background-size: 30% 50%;
+  background-position: top, bottom;
+  background-attachment: fixed;
+  color: whitesmoke;
+  text-align: right;
+}
+
 h1 {
-  color: blueviolet;
+  color: rgb(255, 36, 218);
+}
+ul {
+  list-style-type: none;
+}
+#main {
+  height: 170px;
+  width: 170px;
 }
