@@ -19,4 +19,5 @@ ul {
 #main {
   height: 170px;
   width: 170px;
+  border-radius: 50%;
 }
